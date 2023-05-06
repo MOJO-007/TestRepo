@@ -7,3 +7,4 @@ public class hello {
     }
 }
 //This line is added by the master branch in host
+//This line was added by BranchA
